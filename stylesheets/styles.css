@@ -33,9 +33,9 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#000000; <!--Was #297aa3-->
+  color:#0000b3; <!--Was #297aa3-->
   font-weight:400;
-  text-decoration:underline;
+  text-decoration:none;
 }
 
 a small {
